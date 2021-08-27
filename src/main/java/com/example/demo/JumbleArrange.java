@@ -12,7 +12,7 @@ public class JumbleArrange {
 				
 
 		char[] aChAr = aStr.toCharArray();
-		char[] bChAr = bStr.toCharArray();
+		//char[] bChAr = bStr.toCharArray();
 		
 		//List<Character> remainingChar = new char[aStr.length()+bStr.length()];
 
